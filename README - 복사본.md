@@ -1,1 +1,0 @@
-# Fake_finger_vein_GAN
